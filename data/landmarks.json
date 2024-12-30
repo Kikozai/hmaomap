@@ -1,0 +1,547 @@
+[
+    {
+        "NAME": "Памятник мамонтенку",
+        "ADDRESS": "Парк им. Бориса Лосева.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=110846",
+        "NAIMENOVANIE_GEOOBEKTA": "Памятник мамонтенку",
+        "DOLGOTA": " 69.027959",
+        "SHIROTA": "61.003405"
+    },
+    {
+        "NAME": "Памятник российскому актеру Александру Абдулову",
+        "ADDRESS": "Территория КТЦ \\\"Югра-Классик\\\", ул. Мира, 22",
+        "PHOTO": "https://admhmansy.ru/city/monuments.php?ELEMENT_ID=110843",
+        "NAIMENOVANIE_GEOOBEKTA": "Памятник российскому актеру Александру Абдулову",
+        "DOLGOTA": "69.025636",
+        "SHIROTA": "61.005965"
+    },
+    {
+        "NAME": "Скульптура «Фея тепла и доброты»",
+        "ADDRESS": "Парк им. Бориса Лосева.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=110842",
+        "NAIMENOVANIE_GEOOBEKTA": "«Фея тепла и доброты»",
+        "DOLGOTA": " 69.028633",
+        "SHIROTA": "61.003607"
+    },
+    {
+        "NAME": "Памятный знак \\\"Крест на месте безвинно расстрелянных\\\"",
+        "ADDRESS": "На территории Церкви Покрова Пресвятой Богородицы.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=118974",
+        "NAIMENOVANIE_GEOOBEKTA": "\\\"Крест на месте безвинно расстрелянных\\\"",
+        "DOLGOTA": " 69.052681",
+        "SHIROTA": "60.970462"
+    },
+    {
+        "NAME": "Мемориальная доска Герою Советского Союза Сирину Николаю Ивановичу",
+        "ADDRESS": "Ул. Сирина, 40.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=102419",
+        "NAIMENOVANIE_GEOOBEKTA": "Мемориальная доска Герою Советского Союза Сирину Николаю Ивановичу",
+        "DOLGOTA": " 69.004601",
+        "SHIROTA": "61.002539"
+    },
+    {
+        "NAME": "Сад культур или «Перекресток культур»",
+        "ADDRESS": "Ул. Мира, 18, территория Дома архитектора Югры.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=102416",
+        "NAIMENOVANIE_GEOOBEKTA": "«Перекресток культур»",
+        "DOLGOTA": " 69.020887",
+        "SHIROTA": "61.004977"
+    },
+    {
+        "NAME": "Стела в память о пожарных и спасателях  погибших при исполнении служебного долга",
+        "ADDRESS": "Территория КУ «Центроспас-Югория», ул. Посадская, 17.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=119237",
+        "NAIMENOVANIE_GEOOBEKTA": "Стела в память о пожарных и спасателях, погибших при исполнении служебного долга",
+        "DOLGOTA": " 69.038164",
+        "SHIROTA": "60.990491"
+    },
+    {
+        "NAME": "Скульптурная композиция  посвященная мансийскому поэту Ювану Шесталову",
+        "ADDRESS": "Этнографический музей под открытым небом «Торум Маа».",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=120485",
+        "NAIMENOVANIE_GEOOBEKTA": "Скульптурная композиция, посвященная мансийскому поэту Ювану Шесталову",
+        "DOLGOTA": " 69.006268",
+        "SHIROTA": "61.000195"
+    },
+    {
+        "NAME": "Памятник Дунину-Горкавичу А.А. - выдающемуся исследователю Сибири",
+        "ADDRESS": "Ул. Дунина-Горкавича.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=118973",
+        "NAIMENOVANIE_GEOOBEKTA": "Памятник Дунину-Горкавичу А.А.",
+        "DOLGOTA": " 69.061150",
+        "SHIROTA": "60.999860"
+    },
+    {
+        "NAME": "Памятный знак «Труженикам тыла»",
+        "ADDRESS": "Парк победы.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=113543",
+        "NAIMENOVANIE_GEOOBEKTA": "«Труженикам тыла»",
+        "DOLGOTA": " 69.022264",
+        "SHIROTA": "61.003861"
+    },
+    {
+        "NAME": "Памятник влюбленным",
+        "ADDRESS": "На территории гостиничного комплекса «Миснэ».",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=111024",
+        "NAIMENOVANIE_GEOOBEKTA": "Памятник влюбленным",
+        "DOLGOTA": " 69.017495",
+        "SHIROTA": "60.995763"
+    },
+    {
+        "NAME": "Скульптура \\\"Золотая богиня\\\"",
+        "ADDRESS": "Парк им. Бориса Лосева.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=110845",
+        "NAIMENOVANIE_GEOOBEKTA": "\\\"Золотая богиня\\\"",
+        "DOLGOTA": " 69.025625",
+        "SHIROTA": "61.005243"
+    },
+    {
+        "NAME": "Скульптура \\\"Рыбака с рыбой\\\"",
+        "ADDRESS": "Гора Комиссарская, возле лесного массива по дороге к стеле – памятному знаку «Первооткрывателям земли Югорской».",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=102415",
+        "NAIMENOVANIE_GEOOBEKTA": "\\\"Рыбака с рыбой\\\"",
+        "DOLGOTA": " 69.027890",
+        "SHIROTA": "61.002127"
+    },
+    {
+        "NAME": "Памятный знак «Югра людям - преобразователям Земли Югорской»",
+        "ADDRESS": "Ул. Мира, 5, площадь Дома Правительства.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=102394",
+        "NAIMENOVANIE_GEOOBEKTA": "\\\"Югра людям - преобразователям Земли Югорской\\\"",
+        "DOLGOTA": " 69.020204",
+        "SHIROTA": "61.002763"
+    },
+    {
+        "NAME": "Памятник студентам и преподавателям педагогического училища погибшим в годы Великой Отечественной войны",
+        "ADDRESS": "Ул. Гагарина, 3, на территории Ханты-Мансийского технолого-педагогического колледжа.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=102393",
+        "NAIMENOVANIE_GEOOBEKTA": "Памятник студентам и преподавателям педагогического училища, погибшим в годы Великой Отечественной войны",
+        "DOLGOTA": " 69.020812",
+        "SHIROTA": "61.000763"
+    },
+    {
+        "NAME": "Скульптура «Новая жизнь»",
+        "ADDRESS": "Ул. Калинина, 40, территория ОКБ",
+        "PHOTO": "https://admhmansy.ru/city/monuments.php?ELEMENT_ID=102391",
+        "NAIMENOVANIE_GEOOBEKTA": "«Новая жизнь»",
+        "DOLGOTA": "69.030701",
+        "SHIROTA": "61.009119"
+    },
+    {
+        "NAME": "Парусник \\\"Победа\\\"",
+        "ADDRESS": "Набережная, около здания речного вокзала.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=102390",
+        "NAIMENOVANIE_GEOOBEKTA": "Победа",
+        "DOLGOTA": " 69.051360",
+        "SHIROTA": "60.966454"
+    },
+    {
+        "NAME": "Памятник влюбленным «Ночное»",
+        "ADDRESS": "Ул. Спортивная, 15, территория гостиничного комплекса «На семи холмах».",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=102389",
+        "NAIMENOVANIE_GEOOBEKTA": "«Ночное»",
+        "DOLGOTA": " 69.030813",
+        "SHIROTA": "60.984373"
+    },
+    {
+        "NAME": "Скульптурная группа Митрополиту Тобольскому и Сибирскому святителю Иоанну чудотворцу Митрополиту Тобольскому и Сибирскому святителю Филофею Лещинскому",
+        "ADDRESS": "Ул. Гагарина, 9, площадь славянской письменности на территории Храма во Имя Воскресения Христова.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=102388",
+        "NAIMENOVANIE_GEOOBEKTA": "Скульптурная группа",
+        "DOLGOTA": " 69.024179",
+        "SHIROTA": "60.998181"
+    },
+    {
+        "NAME": "Памятник героям гражданской войны",
+        "ADDRESS": "На территории Ханты-Мансийского рыбокомбината.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=102379",
+        "NAIMENOVANIE_GEOOBEKTA": "Памятник героям гражданской войны",
+        "DOLGOTA": " 68.984412",
+        "SHIROTA": "61.003340"
+    },
+    {
+        "NAME": "Памятник учителям и учащимся школы №1 погибшим в годы Великой Отечественной войны",
+        "ADDRESS": "Ул. Комсомольская, 40, на территории школы №1",
+        "PHOTO": "https://admhmansy.ru/city/monuments.php?ELEMENT_ID=102370",
+        "NAIMENOVANIE_GEOOBEKTA": "Памятник учителям и учащимся школы №1 погибшим в годы Великой Отечественной войны",
+        "DOLGOTA": "69.016068",
+        "SHIROTA": "61.006921"
+    },
+    {
+        "NAME": "Скульптурная группа «Основателям города Ханты-Мансийска»",
+        "ADDRESS": "Площадь Свободы, возле Церкви Покрова Пресвятой Богородицы.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100672",
+        "NAIMENOVANIE_GEOOBEKTA": "«Основателям города Ханты-Мансийска»",
+        "DOLGOTA": " 69.052025",
+        "SHIROTA": "60.970884"
+    },
+    {
+        "NAME": "Скульптурная композиция «Молодожены»",
+        "ADDRESS": "ул. Дзержинского, д.7,  возле входа в городской ЗАГС",
+        "PHOTO": "https://admhmansy.ru/city/monuments.php?ELEMENT_ID=100665",
+        "NAIMENOVANIE_GEOOBEKTA": "«Молодожены»",
+        "DOLGOTA": " 69.023559",
+        "SHIROTA": "61.003890"
+    },
+    {
+        "NAME": "Скульптура «Лошади»",
+        "ADDRESS": "Ул. Еловая, 34, территория конноспортивного клуба «Мустанг».",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100661",
+        "NAIMENOVANIE_GEOOBEKTA": "«Лошади»",
+        "DOLGOTA": " 69.140691",
+        "SHIROTA": "61.025770"
+    },
+    {
+        "NAME": "Памятник Лопареву Хрисанфу Мефодьевичу",
+        "ADDRESS": "Сквер на пересечении улиц Гагарина и Свободы.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100659",
+        "NAIMENOVANIE_GEOOBEKTA": "Памятник Лопареву Хрисанфу Мефодьевичу",
+        "DOLGOTA": " 69.050931",
+        "SHIROTA": "60.969043"
+    },
+    {
+        "NAME": "Скульптурная группа «Лестница жизни»",
+        "ADDRESS": "ул. Мира, д. 15, возле входа в здание Ханты-Мансийский Театр кукол",
+        "PHOTO": "https://admhmansy.ru/city/monuments.php?ELEMENT_ID=100638",
+        "NAIMENOVANIE_GEOOBEKTA": "«Лестница жизни»",
+        "DOLGOTA": "69.03024",
+        "SHIROTA": "61.00570"
+    },
+    {
+        "NAME": "Памятник первопроходцам земли Югорской «Кристалл»",
+        "ADDRESS": "Ул. Чехова, площадь музея геологии, нефти и газа.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100636",
+        "NAIMENOVANIE_GEOOBEKTA": "«Кристалл»",
+        "DOLGOTA": " 69.027890",
+        "SHIROTA": "61.002127"
+    },
+    {
+        "NAME": "Монументально-художественная композиция «Древо Дружбы»",
+        "ADDRESS": "Ул. Мира, площадь перед входом в парк им. Бориса Лосева.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100626",
+        "NAIMENOVANIE_GEOOBEKTA": "«Древо Дружбы»",
+        "DOLGOTA": " 69.026689",
+        "SHIROTA": "61.005305"
+    },
+    {
+        "NAME": "Скульптурные композиции «Времена года»",
+        "ADDRESS": "Пешеходная зона улицы",
+        "PHOTO": "https://admhmansy.ru/city/monuments.php?ELEMENT_ID=100624",
+        "NAIMENOVANIE_GEOOBEKTA": "«Времена года»",
+        "DOLGOTA": " 69.01730",
+        "SHIROTA": "61.00480"
+    },
+    {
+        "NAME": "Скульптурная композиция «Великим Сибирским экспедициям»",
+        "ADDRESS": "ул. Б.Щербины, 3, на площади речного вокзала.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100612",
+        "NAIMENOVANIE_GEOOBEKTA": "«Великим Сибирским экспедициям»",
+        "DOLGOTA": " 69.053411",
+        "SHIROTA": "60.967142"
+    },
+    {
+        "NAME": "Скульптура «Ассоль корабельная»",
+        "ADDRESS": "ул. Б.Щербины, 3, на площади речного вокзала.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100607",
+        "NAIMENOVANIE_GEOOBEKTA": "«Ассоль корабельная»",
+        "DOLGOTA": " 69.053611",
+        "SHIROTA": "60.966688"
+    },
+    {
+        "NAME": "Культурно-туристический комплекс «Археопарк»",
+        "ADDRESS": "В районе геологического памятника «Самаровский останец».",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100586",
+        "NAIMENOVANIE_GEOOBEKTA": "«Археопарк»",
+        "DOLGOTA": " 69.007638",
+        "SHIROTA": "60.980238"
+    },
+    {
+        "NAME": "Мемориал Славы воинам округа погибшим в годы Великой Отечественной войны",
+        "ADDRESS": "В самом центре парка Победы",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100663",
+        "NAIMENOVANIE_GEOOBEKTA": "Мемориал Славы воинам округа",
+        "DOLGOTA": " 69.021052",
+        "SHIROTA": "61.003955"
+    },
+    {
+        "NAME": "Скульптура ангела «Любит - не любит»",
+        "ADDRESS": "Беседка-ротонда в парке им. Б. Лосева.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100757",
+        "NAIMENOVANIE_GEOOBEKTA": "«Любит - не любит»",
+        "DOLGOTA": " 69.028260",
+        "SHIROTA": "61.004128"
+    },
+    {
+        "NAME": "Декоративная скульптурная композиция по мотивам хантыйской и мансийской мифологии «Мифологическое время»",
+        "ADDRESS": "Пешеходная зона ул. Дзержинского",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100740",
+        "NAIMENOVANIE_GEOOBEKTA": "«Мифологическое время»: «Космическое деление мира»",
+        "DOLGOTA": "69.020915",
+        "SHIROTA": "61.006964"
+    },
+    {
+        "NAME": "«Небесная Богиня – Мать Калтащ»",
+        "ADDRESS": "Пешеходная зона ул. Дзержинского",
+        "PHOTO": "https://admhmansy.ru/city/monuments.php?ELEMENT_ID=100740",
+        "NAIMENOVANIE_GEOOBEKTA": "«Небесная Богиня – Мать Калтащ»",
+        "DOLGOTA": "69.020250",
+        "SHIROTA": "61.007524"
+    },
+    {
+        "NAME": "«Мир-суснэ-хум»",
+        "ADDRESS": "пешеходная зона ул. Дзержинского",
+        "PHOTO": "https://admhmansy.ru/city/monuments.php?ELEMENT_ID=100740",
+        "NAIMENOVANIE_GEOOBEKTA": "«Мир-суснэ-хум»",
+        "DOLGOTA": "69.018113",
+        "SHIROTA": "61.009783"
+    },
+    {
+        "NAME": "Скульптурная группа «Семья ханты на привале»",
+        "ADDRESS": "Ул. Мира, территория Международного аэропорта города Ханты-Мансийска.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100731",
+        "NAIMENOVANIE_GEOOBEKTA": "«Семья ханты на привале»",
+        "DOLGOTA": " 69.097505",
+        "SHIROTA": "61.026093"
+    },
+    {
+        "NAME": "Аллея спортивной славы Югры с монументом «Огонь спортивной славы»",
+        "ADDRESS": "Пересечение улиц Пионерская и К.Маркса.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100727",
+        "NAIMENOVANIE_GEOOBEKTA": "«Огонь спортивной славы»",
+        "DOLGOTA": " 69.013006",
+        "SHIROTA": "61.007873"
+    },
+    {
+        "NAME": "Монумент «Бронзовый символ Югры»",
+        "ADDRESS": "Ул. Дзержинского, на площади между Домом Правительства Югры и Администрацией города",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100724",
+        "NAIMENOVANIE_GEOOBEKTA": "«Бронзовый символ Югры»",
+        "DOLGOTA": " 69.023393",
+        "SHIROTA": "61.003130"
+    },
+    {
+        "NAME": "Мемориал памяти жертв политических репрессий",
+        "ADDRESS": "Пересечение улиц Свердлова и Пионерская",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100720",
+        "NAIMENOVANIE_GEOOBEKTA": "Жертвам репрессий",
+        "DOLGOTA": " 69.025358",
+        "SHIROTA": "61.010491"
+    },
+    {
+        "NAME": "Монументально-художественная композиция «Атмосфера» (покорителям космоса)",
+        "ADDRESS": "Рядом с территорией площади окружного выставочного центра «Югра-Экспо» по улице Студенческая,  в центре автомобильного кольца.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100718",
+        "NAIMENOVANIE_GEOOBEKTA": "«Атмосфера»",
+        "DOLGOTA": " 69.046989",
+        "SHIROTA": "61.014849"
+    },
+    {
+        "NAME": "Скульптурная композиция «Охотник и медведь»",
+        "ADDRESS": "Ул. Мира, 11, парк Музея \\\"Природы и Человека\\\".",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100679",
+        "NAIMENOVANIE_GEOOBEKTA": "«Охотник и медведь»",
+        "DOLGOTA": " 69.024295",
+        "SHIROTA": "61.005130"
+    },
+    {
+        "NAME": "Памятник «Пушкин и Натали»",
+        "ADDRESS": "Ул. Мира, площадь КТЦ «Югра-Классик»",
+        "PHOTO": "https://admhmansy.ru/city/monuments.php?ELEMENT_ID=100686",
+        "NAIMENOVANIE_GEOOBEKTA": "«Пушкин и Натали»",
+        "DOLGOTA": "69.024625",
+        "SHIROTA": "61.005534"
+    },
+    {
+        "NAME": "Скульптура «Сова»",
+        "ADDRESS": "Ул. Мира, 2, площадь перед зданием Окружной библиотеки Югры",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100699",
+        "NAIMENOVANIE_GEOOBEKTA": "«Сова»",
+        "DOLGOTA": " 69.016140",
+        "SHIROTA": "61.000890"
+    },
+    {
+        "NAME": "Памятник древнегреческим философам Сократу и Платону «Учитель и ученик»",
+        "ADDRESS": "Ул. Чехова, 16, площадь Югорского государственного университета.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100701",
+        "NAIMENOVANIE_GEOOBEKTA": "«Учитель и ученик»",
+        "DOLGOTA": " 69.028595",
+        "SHIROTA": "61.001745"
+    },
+    {
+        "NAME": "Танк-памятник Танк «Т-34-76»",
+        "ADDRESS": "Ул. Мира",
+        "PHOTO": "https://admhmansy.ru/city/monuments.php?ELEMENT_ID=100703",
+        "NAIMENOVANIE_GEOOBEKTA": " Танк «Т-34-76»",
+        "DOLGOTA": "69.021064",
+        "SHIROTA": "61.004404"
+    },
+    {
+        "NAME": "Стела - памятный знак «Первооткрывателям земли Югорской»",
+        "ADDRESS": "Ул.Первооткрывателей, 1.",
+        "PHOTO": "http://admhmansy.ru/city/monuments.php?ELEMENT_ID=100702",
+        "NAIMENOVANIE_GEOOBEKTA": "«Первооткрывателям земли Югорской»",
+        "DOLGOTA": " 69.057315",
+        "SHIROTA": "60.972549"
+    },
+    {
+        "NAME": "Ансамбль Никольской часовни",
+        "ADDRESS": "Горького, 1",
+        "TYPE": "ансамбль",
+        "NAIMENOVANIE_GEOOBEKTA": "Никольская часовня",
+        "DOLGOTA": "69.04476°",
+        "SHIROTA": "60.971125°"
+    },
+    {
+        "NAME": "Здание пожарного депо",
+        "ADDRESS": "ул.Комсомольская, 30.",
+        "TYPE": "памятник архитектуры",
+        "NAIMENOVANIE_GEOOBEKTA": "Пожарное депо",
+        "DOLGOTA": "69.01366°",
+        "SHIROTA": "61.005304°"
+    },
+    {
+        "NAME": "Жилой дом, 1890 гг",
+        "ADDRESS": "ул.Кирова, 22.",
+        "TYPE": "памятник архитектуры",
+        "NAIMENOVANIE_GEOOBEKTA": "Жилой дом",
+        "DOLGOTA": "69.04781°",
+        "SHIROTA": "60.970320°"
+    },
+    {
+        "NAME": "Здание городских электрических сетей",
+        "ADDRESS": "ул.Дзержинского, 21.",
+        "TYPE": "памятник истории",
+        "NAIMENOVANIE_GEOOBEKTA": "Горэлектросети",
+        "DOLGOTA": "69.02042°",
+        "SHIROTA": "61.008526°"
+    },
+    {
+        "NAME": "Братская могила красногвардейцев, погибших в боях за установление Советской власти на Обь-Иртышском Севере",
+        "ADDRESS": "ул.Свободы, -",
+        "TYPE": "памятник истории",
+        "NAIMENOVANIE_GEOOBEKTA": "Братская могила",
+        "DOLGOTA": "69.05185°",
+        "SHIROTA": "60.970370°"
+    },
+    {
+        "NAME": "Здание первой радиотелеграфной и электрической станции в Самарово",
+        "ADDRESS": "переулок Нагорный, 4а.",
+        "TYPE": "памятник истории и архитектуры",
+        "NAIMENOVANIE_GEOOBEKTA": "Самарово",
+        "DOLGOTA": "69.04745°",
+        "SHIROTA": "60.979806°"
+    },
+    {
+        
+        "NAME": "ООО \\\"Богатыри\\\"",
+        "ADDRESS": "ул.Рознина",
+        "TYPE": "Пневматический тир",
+        "FIO_RUKOVODITELYA": "Нишанов Элер Тапулатович",
+        "NAIMENOVANIE_GEOOBEKTA": "Рознина",
+        "DOLGOTA": "69.0182698",
+        "SHIROTA": "69.018340"
+    },
+    {
+        
+        "NAME": "ИП Безоян Гагик  Мисакович",
+        "ADDRESS": "парк \\\"Бориса Лосева\\\"",
+        "TYPE": "Малый батут,Большой батут,Батут «Тарзанка», Бассейн «Шар на воде», Бассейн «Лодочки»,Лабиринт ,Электромобили ",
+        "FIO_RUKOVODITELYA": " Безоян Гагик  Мисакович",
+        "NAIMENOVANIE_GEOOBEKTA": "парк имени Бориса Лосева",
+        "DOLGOTA": "61.003991",
+        "SHIROTA": " 69.026789"
+    },
+    {
+        
+        "NAME": "ИП Благинина Юлия Викторовна",
+        "ADDRESS": "парк \\\"Бориса Лосева\\\"",
+        "TYPE": "Батут, Электромобили, Безрельсовы паравозик",
+        "FIO_RUKOVODITELYA": "Благинина Юлия Викторовна",
+        "NAIMENOVANIE_GEOOBEKTA": "парк имени Бориса Лосева",
+        "DOLGOTA": "61.003991",
+        "SHIROTA": " 69.026789"
+    },
+    {
+        
+        "NAME": "ИП Воронцова Екатерина Шамильевна",
+        "ADDRESS": "парк \\\"Бориса Лосева\\\"",
+        "TYPE": "Силомер",
+        "FIO_RUKOVODITELYA": "Воронцова Екатерина Шамильевна",
+        "NAIMENOVANIE_GEOOBEKTA": "парк имени Бориса Лосева",
+        "DOLGOTA": "61.003991",
+        "SHIROTA": " 69.026789"
+    },
+    {
+        
+        "NAME": "ИП Капенкин Станислав Николаевич",
+        "ADDRESS": "Центральная площадь",
+        "TYPE": "Электромобили,Детский спортивный батут,Аттракцион «Шарики лопарики»,«Веселая рыбалочка»",
+        "FIO_RUKOVODITELYA": " Капенкин Станислав Николаевич",
+        "NAIMENOVANIE_GEOOBEKTA": "Центральная площадь",
+        "DOLGOTA": "61.003337",
+        "SHIROTA": "69.019010"
+    },
+    {
+        
+        "NAME": "ИП Благинина Юлия Викторовна",
+        "ADDRESS": "Центральная площадь",
+        "TYPE": "Электромобили,Детский спортивный батут",
+        "FIO_RUKOVODITELYA": "Благинина Юлия Викторовна",
+        "NAIMENOVANIE_GEOOBEKTA": "Центральная площадь",
+        "DOLGOTA": "61.003337",
+        "SHIROTA": "69.019010"
+    },
+    {
+        
+        "NAME": "ИП Фишер Анна Сергеевна",
+        "ADDRESS": "Центральная площадь",
+        "TYPE": "Веломобили, Лопни шарики ",
+        "FIO_RUKOVODITELYA": "Фишер Анна Сергеевна",
+        "NAIMENOVANIE_GEOOBEKTA": "Центральная площадь",
+        "DOLGOTA": "61.003337",
+        "SHIROTA": "69.019010"
+    },
+    {
+        
+        "NAME": "ИП Иженякова Светлана Владимировна",
+        "ADDRESS": "Площадь свободы",
+        "TYPE": "Батут \\\"Синий дракон\\\", \\\"Тачки\\\"",
+        "FIO_RUKOVODITELYA": "Иженякова Светлана Владимировна",
+        "NAIMENOVANIE_GEOOBEKTA": "Площадь свободы",
+        "DOLGOTA": "60.970281",
+        "SHIROTA": "69.052128"
+    },
+    {
+        
+        "NAME": "ИП Фишер Анна Сергеевна",
+        "ADDRESS": "Набережная реки Иртыш ",
+        "TYPE": "Веломобили, Лопни шарики ",
+        "FIO_RUKOVODITELYA": "Фишер Анна Сергеевна",
+        "NAIMENOVANIE_GEOOBEKTA": "Набережная реки Иртыш ",
+        "DOLGOTA": "60.966838",
+        "SHIROTA": "69.054593"
+    },
+    {
+        
+        "NAME": "ИП Михалев Сергей Геннадьевич",
+        "ADDRESS": "Набережная реки Иртыш ",
+        "TYPE": "кораблик \\\"Алые паруса\\\"",
+        "FIO_RUKOVODITELYA": "Михалев Сергей Геннадьевич",
+        "NAIMENOVANIE_GEOOBEKTA": "Новая набережная район ул. Самаровская",
+        "DOLGOTA": "60.966838",
+        "SHIROTA": "69.054593"
+    },
+    {
+        "NAME": "Аквапарк, бассейн автономного учреждения Ханты-Мансийского автономного округа - Югры \\\"ЮграМегаСпорт\\\"",
+        "ADDRESS": "Ледовая, 1",
+        "PHONE": "358-466",
+        "REZHIM_RABOTY": "10:00 — 14:00, 16:00 — 20:30, без выходных Технический перерыв: 15:00 — 16:00",
+        "FIO_RUKOVODITELYA": "Дресс Олег Борисович",
+        "SAYT": "http://ugramegasport.ru",
+        "ELEKTRONNAYA_POCHTA": "ugramegasport@mail.ru",
+        "SPORTIVNYE_SEKTSII": "Плавание, синхронное плавание, аквааэробика",
+        "NAIMENOVANIE_GEOOBEKTA": "\\\"ЮграМегаСпорт\\\"",
+        "DOLGOTA": "60.976835",
+        "SHIROTA": " 69.015306"
+    }
+]
